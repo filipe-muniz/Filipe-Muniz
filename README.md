@@ -1,7 +1,1 @@
-Estudante de Ciência da Computação com experiência em Desenvolvimento Web. Meus interesses incluem:
-+ Desenvolvimento Back-End
-+ Sistemas Distribuídos
-+ Linux
-+ Teoria da Computação.
-
-Contato: filipe.munizsh@gmail.com
+I'm a Computer Science student from Brazil with experience in full-stack development, working primarily with React.js and Node.js. In college, I was part of a research team exploring Large Language Models (LLMs) for sentiment analysis in Natural Language Processing (NLP)
