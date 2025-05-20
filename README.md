@@ -1,1 +1,1 @@
-I'm a Computer Science student from Brazil with experience in full-stack development, working primarily with React.js and Node.js. In college, I was part of a research team exploring Large Language Models (LLMs) for sentiment analysis in Natural Language Processing (NLP)
+I'm a Computer Science student from Brazil with experience in full-stack development, working primarily with React.js and Java. In college, I was part of a research team exploring Large Language Models (LLMs) for sentiment analysis in Natural Language Processing (NLP)
